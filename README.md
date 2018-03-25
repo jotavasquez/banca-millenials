@@ -6,4 +6,9 @@ Se desarrolló una solución en forma de App Móvil, que pueda ayudar a los usua
 
 ![fireshot capture 40 - banca digital v 1 1 - https___marvelapp com_40hddj5_screen_39138871](https://user-images.githubusercontent.com/32280840/37881104-fc2b60fe-3068-11e8-8a4c-8fe37576f5f2.png)
 
-### desarrollado para Laboratoria
+### Ver más detalles en mi portafolio:
+[Portafolio](https://jotavasquez.github.io/portafolio-j/)
+
+## Desarrollado para 
+[Laboratoria](http://laboratoria.la)
+
