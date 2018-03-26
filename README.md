@@ -93,7 +93,7 @@ La arquitectura de la imformación es importante para organizar los contenidos d
 - Fireframes alta resolución en Marvel(100%)
 - Guerrilla testing (sin participación)
 
-## Ver más detalles en mi [Portafolio](https://jotavasquez.github.io/portafolio-j/)
+## Ver más detalles en mi [Portafolio](https://jotavasquez.github.io/portafolioj/)
 
 ## Desarrollado para 
 [Laboratoria](http://laboratoria.la)
