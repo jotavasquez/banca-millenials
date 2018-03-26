@@ -4,7 +4,7 @@ Propuesta de diseño para una banca dirigida a Millenials, con los requisitos qu
 
 Se desarrolló una solución en forma de App Móvil, que pueda ayudar a los usuarios manejar sus finanzas mediante el ahorro voluntario y planificado, cada vez que se complete un ahorro gana un premio que descuente por un mes los costos asociados a la mantención y así incentivar buenos hábitos en el manejo de finanzas.
 
-![fireshot capture 40 - banca digital v 1 1 - https___marvelapp com_40hddj5_screen_39138871](https://user-images.githubusercontent.com/32280840/37881104-fc2b60fe-3068-11e8-8a4c-8fe37576f5f2.png)
+![mivaquita](https://user-images.githubusercontent.com/32280840/37885661-ecb01b64-308c-11e8-9ddd-44d8ad4c146d.png)
 
 ### Ver más detalles en mi portafolio:
 [Portafolio](https://jotavasquez.github.io/portafolio-j/)
