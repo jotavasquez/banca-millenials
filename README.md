@@ -6,6 +6,9 @@ Se desarrolló una solución en forma de App Móvil, que pueda ayudar a los usua
 
 ![mivaquita](https://user-images.githubusercontent.com/32280840/37885661-ecb01b64-308c-11e8-9ddd-44d8ad4c146d.png)
 
+## Desarrollado para 
+[Laboratoria](http://laboratoria.la)
+
 ### Proceso
 Trabajo en duplas, dividimos el trabajo de acuerdo a nuestras aptitudes y coordinación con el tiempo estimado. Duración del proyecto: 1 semana.
 
@@ -26,8 +29,6 @@ La mayoría de los encuestados utiliza la página web, no usan la app por no enc
 Si bien tiene reclamos por el funcionamiento de la plataforma digital en general la evalúan en forma buena con nota 5-6 de 7. Por sobre la seguridad ponen como prioridad mejorar la rapidez y sencillez al usar la plataforma y al momento de elegir un banco optan por el tema de los costos de mantención.
 La mayoría usa transferencias, pago de servicios y ahorro entre las acciones más frecuentes.
 Aunque la mayoría utiliza la web del banco, utilizan app móviles frecuentemente, como instagram o youtube, por lo que pensamos que el bajo uso de estos usuarios encuestados es por costumbre no de usar una app móvil.
-
-
 
 ##### Entrevista en terreno
 5 personas en terreno en lugares donde se encuentran Millenials: GAM y Biblioteca Nacional.
@@ -93,9 +94,4 @@ La arquitectura de la imformación es importante para organizar los contenidos d
 - Fireframes alta resolución en Marvel(100%)
 - Guerrilla testing (sin participación)
 
-## Ver más detalles en mi [Portafolio](https://jotavasquez.github.io/portafolioj/)
-
-## Desarrollado para 
-[Laboratoria](http://laboratoria.la)
-
-
+### Ver más detalles en mi [Portafolio](https://jotavasquez.github.io/portafolioj/)
