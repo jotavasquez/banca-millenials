@@ -8,9 +8,7 @@ Se desarrolló una solución en forma de App Móvil, que pueda ayudar a los usua
 
 ### Proceso
 Trabajo en duplas, dividimos el trabajo de acuerdo a nuestras aptitudes y coordinación con el tiempo estimado. Duración del proyecto: 1 semana.
-
 Comenzamos con una investigación de referentes con una idea similar que ya están funcionando en el mercado: [Simple](https://www.simple.com/) en Estados Unidos, [Nubank](https://www.nubank.com.br/) en Brazil, y [Nequi](https://www.nequi.com/) en Colombia.
-
 Articulos de prensa relacionados al desafío de la banca actual por captar estos nuevos clientes: la generación millennial, la cual tiene caracteristicas peculiares, diferentes a las generaciones actuales, que muestran desconfianza y desinteres por el uso de productos bancarios.
 
 En terminos locales, tomamos en cuenta el estudio de adimark sobre [los Chilennials](http://www.adimark.cl/es/estudios/dinamica.asp?id=385)
