@@ -1,11 +1,8 @@
 # Mi Vaquita App: propuesta de banca 100% digital para millennials
 ## Descripción
-Propuesta de diseño para una banca dirigida a Millennials, con los requisitos que sea 100% digital, como un nuevo servicio de un banco ya consolidado que está en proceso de transformación digital y que desea ofrecer este nuevo producto a sus usuarios más jóvenes,
-
+Propuesta de diseño para una banca dirigida a Millennials, con los requisitos que sea 100% digital, como un nuevo servicio de un banco ya consolidado que está en proceso de transformación digital y que desea ofrecer este nuevo producto a sus usuarios más jóvenes.
 Se desarrolló una solución en forma de App Móvil, que pueda ayudar a los usuarios manejar sus finanzas mediante el ahorro voluntario y planificado, cada vez que se complete un ahorro gana un premio que descuente por un mes los costos asociados a la mantención y así incentivar buenos hábitos en el manejo de finanzas.
-
 ![mivaquita](https://user-images.githubusercontent.com/32280840/37885661-ecb01b64-308c-11e8-9ddd-44d8ad4c146d.png)
-
 ## Desarrollado para 
 [Laboratoria](http://laboratoria.la)
 
@@ -72,7 +69,6 @@ Luego creamos el wireframe de alta resolución y lo llevamos a testeo guerrilla.
 [LINK WIREFRAME MARVEL HD V.3](https://marvelapp.com/40hddj5)
 
 ![nervid](https://user-images.githubusercontent.com/32280840/37899433-e43a06e0-30c1-11e8-839d-408b4e7410fd.png)
-
 
 #### Conclusión
 Concluimos en una solución que pueda ayudar a los usuarios manejar sus finanzas mediante el ahorro voluntario y planificado, cada vez que se complete un ahorro gana un premio que descuente por un mes los costos asociados a la mantención.
