@@ -63,9 +63,6 @@ Comenzamos a crear wireframes en conjunto para realizar el flujo de tareas. Desa
 
 Luego creamos el wireframe de alta resolución y lo llevamos a Testeo Guerrilla. Del resultado mejoramos detalles pequeños qué mejorar: cambio de palabras, mejora en la interfaz, posición de botones, etc.
 
-[LINK WIREFRAME MARVEL HD V.2](https://marvelapp.com/81ag194)
-[LINK WIREFRAME MARVEL HD V.3](https://marvelapp.com/40hddj5)
-
 ![nervid](https://user-images.githubusercontent.com/32280840/37899433-e43a06e0-30c1-11e8-839d-408b4e7410fd.png)
 
 #### Conclusión
